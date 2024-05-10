@@ -1,0 +1,32 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 1em;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+ /* Add this CSS to center the heading */
+.heading1 {
+  margin-left: 40%;
+  font-size: 30px;
+  }
+  
